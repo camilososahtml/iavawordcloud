@@ -1,5 +1,5 @@
-# iavawordcloud
-Wordcloud de opiniones del IAVA en un thread de reddit
+# iavawordcloud, google collab
+Wordcloud de opiniones del IAVA en un thread de reddit 
 
 Este proyecto permite generar una wordcloud o nube de palabras a partir de opiniones recopiladas en un archivo CSV. Las palabras más frecuentes se muestran, facilitando el análisis de opiniones.
 
